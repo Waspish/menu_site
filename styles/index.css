@@ -36,6 +36,9 @@ body {
       align-items: center;
       justify-content: center;
       gap: 6rem; }
+      body header nav .logo svg {
+        position: relative;
+        top: 11px; }
       body header nav .menu {
         list-style: none;
         display: flex;

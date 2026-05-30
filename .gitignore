@@ -3,3 +3,4 @@ node_modules/
 package.json
 main.scss
 package-lock.json
+.idea
